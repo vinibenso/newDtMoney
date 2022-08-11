@@ -1,0 +1,27 @@
+{
+  "transactions": [{
+    "id": 1,
+    "description": "Desenvolvimento de site",
+    "type": "income",
+    "category": "Venda",
+     "price": 14000,
+     "createdAt":"2022-08-11T12:38:08.603Z"
+  },
+  {
+    "id": 2,
+    "description": "Hamburguer",
+    "type": "outcome",
+    "category": "Alimentaação",
+     "price": 60,
+     "createdAt":"2022-08-11T12:35:08.603Z"
+  },
+  {
+    "id": 3,
+    "description": "Ignite",
+    "type": "outcome",
+    "category": "Educação",
+     "price": 1980,
+     "createdAt":"2022-08-11T15:35:08.603Z"
+  }
+]
+}
